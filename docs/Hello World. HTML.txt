@@ -1,9 +1,0 @@
-<!DOCTYPE HTML>
-<html>
-<body>
-<p>Hello World Example</p>
-<script>
- alert("Hello + Maple!");
-</script>
-</body>
-</html>
